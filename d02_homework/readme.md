@@ -24,20 +24,6 @@ Repositories are made up of:
 Please visit https://github.com/ and login, or sign up for an account if you
 do not have one.
 
-## Authenticate your computer with GitHub.com
-
-This is a three step process:
-
-1. Generate SSH Keys
-  - `$ ssh-keygen -t rsa`
-  - press enter until you see the `$`
-2. Read their contents
-  - `$ cat ~/.ssh/id_rsa.pub`
-3. Add them to GitHub
-  - Visit https://github.com/settings/ssh
-  - Click "Add SSH Key"
-  - Click "Save"
-
 ## Create a New Repository
 
 Visit <https://github.com/new>, enter a repository name and click the
@@ -47,7 +33,7 @@ Give it a name that effectively describes the project you are working on.
 
 ## Copy the Repository to your Machine
 
-    $ git clone git@github.com:your-user-name/your-project-name.git
+    $ git clone https://github.com/your-user-name/your-project-name.git
 
 ##  Add your work 
 
