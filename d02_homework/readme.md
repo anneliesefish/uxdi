@@ -1,6 +1,6 @@
 # Homework
 
-In this homework assignment, you will be able to share your work on GitHub.  
+In this homework, you will create a new github account.
 
 ## What is GitHub?
 
