@@ -12,6 +12,13 @@
 - Use basic block styles to set element padding, margins, borders, etc.
 - Use `display` to arrange elements within a layout.
 
+## Review GitHub Homework
+
+Create a new repository, and push your HTML from yesterday
+to a new repository.
+
+Fork and clone the uxdi repository.
+
 ## Intro to CSS
 
 CSS stands for Cascading Style Sheets. 
@@ -19,6 +26,8 @@ CSS stands for Cascading Style Sheets.
 | HTML | CSS |
 |------|-----|
 | Content | Styles |
+
+- http://a.singlediv.com/
 
 ### Common HTML mistakes
 
@@ -40,5 +49,7 @@ CSS stands for Cascading Style Sheets.
 - Values
 
 ## We Do: Wendy Bite Code Along
+
+## You Do: Brooklyn 
 
 
